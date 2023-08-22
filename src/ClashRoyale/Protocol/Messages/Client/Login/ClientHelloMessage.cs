@@ -1,4 +1,4 @@
-﻿using ClashRoyale.Logic;
+h﻿using ClashRoyale.Logic;
 using ClashRoyale.Protocol.Messages.Server;
 using ClashRoyale.Utilities.Netty;
 using DotNetty.Buffers;
@@ -58,7 +58,7 @@ namespace ClashRoyale.Protocol.Messages.Client.Login
             await new LoginFailedMessage(Device)
             {
                 Reason =
-                    "You are using an unpatched client. Please setup a content patch in the apk or on the server.",
+                    "You are somehow using an unpatched client. Please setup a content patch in the ipa/apk or on the server.",
                 SkipCrypto = true
             }.SendAsync();
         }
