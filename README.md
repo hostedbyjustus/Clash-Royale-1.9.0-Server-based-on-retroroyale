@@ -1,9 +1,9 @@
-# Clash Royale 1.9.0-1.9.2 (2017)
+# Clash Royale 1.9.0 - 1.9.2 (2017)
 [![clash royale](https://img.shields.io/badge/Clash%20Royale-1.9.2-brightred.svg?style=flat")](https://clash-royale.en.uptodown.com/android/download/1632865)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Build Status](https://action-badges.now.sh/retroroyale/ClashRoyale)
 
-#### A .NET Core Clash Royale Server (v1.9)
+#### A .NET Core Clash Royale Server (v1.9.x)
 ##### Need help? Join our [Discord](https://discord.gg/8cHkNE6)
 
 ## Battles
