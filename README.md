@@ -51,4 +51,4 @@ To configurate your server, such as the database you have to edit the ```config.
 ```git pull && dotnet publish "ClashRoyale.Battles.csproj" -c Release -o app && dotnet app/ClashRoyale.Battles.dll```
 
 ## Need help?
-Contact me on Discord (@Justus61), join our server or open an issue.
+Contact me on Discord (@justus61), join our server or open an issue.
