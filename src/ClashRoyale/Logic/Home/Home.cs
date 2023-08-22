@@ -42,7 +42,7 @@ namespace ClashRoyale.Logic.Home
             PreferredDeviceLanguage = "EN";
 
             Gold = 100;
-            Diamonds = 1000000;
+            Diamonds = 100;
 
             Name = "NoName";
             ExpLevel = 1;
