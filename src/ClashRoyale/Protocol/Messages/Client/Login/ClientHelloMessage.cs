@@ -1,4 +1,4 @@
-h﻿using ClashRoyale.Logic;
+﻿using ClashRoyale.Logic;
 using ClashRoyale.Protocol.Messages.Server;
 using ClashRoyale.Utilities.Netty;
 using DotNetty.Buffers;
